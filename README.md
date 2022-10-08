@@ -1,4 +1,4 @@
-# Payment Binding
+# Payment Bind
 
 
 
